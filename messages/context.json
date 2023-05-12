@@ -8,5 +8,7 @@
   "admin/editor.dispositionlayout.show.items.title": "Title of the show prop",
   "admin/editor.dispositionlayout.show.items.description": "Description of the show prop",
   "admin/editor.dispositionlayout.editorItemTitle.title": "Title of the item",
-  "admin/editor.dispositionlayout.editorItemTitle.description": "Description of the item prop"
+  "admin/editor.dispositionlayout.editorItemTitle.description": "Description of the item prop",
+  "admin/editor.dispositionlayout.value.items.title": "Title of the id prop",
+  "admin/editor.dispositionlayout.value.items.description": "Description of the id prop"
 }

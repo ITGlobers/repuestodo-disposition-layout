@@ -1,5 +1,5 @@
 {
-  "vendor": "vtex",
+  "vendor": "repuestodo",
   "name": "disposition-layout",
   "version": "3.0.1",
   "title": "VTEX Disposition Layout",
@@ -13,14 +13,18 @@
   "dependencies": {
     "vtex.render-runtime": "8.x"
   },
-  "registries": ["smartcheckout"],
+  "registries": [
+    "smartcheckout"
+  ],
   "policies": [],
   "billingOptions": {
     "support": {
       "url": "https://support.vtex.com/hc/requests"
     },
     "type": "free",
-    "availableCountries": ["*"]
+    "availableCountries": [
+      "*"
+    ]
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }

@@ -29,6 +29,11 @@
                 "description": "admin/editor.dispositionlayout.show.items.description",
                 "type": "boolean",
                 "default": true
+              },
+              "value": {
+                "title": "admin/editor.dispositionlayout.value.items.title",
+                "description": "admin/editor.dispositionlayout.value.items.description",
+                "type": "string"
               }
             }
           }
