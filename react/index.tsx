@@ -19,14 +19,18 @@ interface Props {
   block: "string"
 }
 
+/**
+ * The `DispositionLayout` function takes in children, disposition, and block as props, and returns a
+ * sorted array of React children based on the given disposition.
+ * @param {Props}  - The parameters for the `DispositionLayout` function are:
+ * @returns The function `DispositionLayout` returns an array of sorted React children.
+ */
 const DispositionLayout: any = ({
   children,
   disposition,
   block
 }: Props): ReactChild[] | ReactNode => {
   if (block) {
-
-
 
   }
   const array = React.Children.toArray(children) as ReactChild[]
